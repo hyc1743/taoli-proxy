@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "http://43.133.2.5/"
+      "destination": "https://chatshare.biz/"
     },
     {
       "source": "/(.*)",
-      "destination": "http://43.133.2.5/$1"
+      "destination": "https://chatshare.biz/$1"
     }
   ]
 }
